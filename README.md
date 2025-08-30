@@ -1,16 +1,47 @@
-# edges_project
+# 📌 Flutter To-Do App  
 
-A new Flutter project.
+## 📝 Overview  
+A responsive **To-Do application** built with Flutter.  
+Supports **desktop and mobile layouts**, allowing users to create task groups, add subtasks, and track progress with charts.  
 
-## Getting Started
+## ✨ Features  
+- ✅ Add/Delete **Major Task Groups**  
+- 🗂️ Add multiple **Subtasks** inside each group  
+- 🖥️ **Responsive Layout** (Desktop + Mobile)  
+- 📊 **Progress Charts** for tasks  
+- 🎨 Modern UI with Material Design  
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshots  
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Mobile View  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+### Desktop View  
+ 
+
+## 🛠️ Tech Stack  
+- [Flutter](https://flutter.dev/)  
+- [Dart](https://dart.dev/)  
+
+## 🚀 Getting Started  
+
+### 1️⃣ Clone the repository  
+```bash
+git clone https://github.com/<your-username>/flutter-todo_app.git
+cd flutter-todo_app
+```
+### 2️⃣ Install dependencies
+```bash
+flutter pub get
+```
+### 3️⃣ Run the app
+####For mobile:
+```bach
+flutter run
+```
+####For desktop (macOS/Windows/Linux):
+```bach
+flutter run -d macos   # or windows / linux
+```
+
