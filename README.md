@@ -43,11 +43,11 @@ cd flutter-todo_app
 flutter pub get
 ```
 ### 3️⃣ Run the app
-####For mobile:
+For mobile:
 ```bach
 flutter run
 ```
-####For desktop (macOS/Windows/Linux):
+For desktop (macOS/Windows/Linux):
 ```bach
 flutter run -d macos   # or windows / linux
 ```
